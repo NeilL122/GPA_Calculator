@@ -46,3 +46,8 @@ function calculateGPA(arr) {
 }
 
 // call function with different grade arrays
+calculateGPA(["A", "B", "C"]);
+
+calculateGPA(["A", "A", "A"]);
+
+calculateGPA(["A", "B", "D"]);
